@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Potential Link Between Ice Nucleation and Climate Model Spread in Arctic Amplification"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt:
+date: 2022
+venue: 'Geophysical Research Letters'
+paperurl: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097373
+citation: 'Tan, I., Barahona, D., & Coopman, Q. (2022). Potential Link Between Ice Nucleation and Climate Model Spread in Arctic Amplification. <i>Geophysical Research Letters</i>, 49(4), e2021GL097373.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Arctic amplification (AA) is simulated by all global climate models, however the spread in the degree of projected warming is large and the underlying mechanisms driving it are poorly understood. The impact of the temperature dependence of immersion freezing on cloud feedbacks and AA is studied using NASA's GEOS-5 model. Parameterizations that exhibit low ice-nucleating particle (INP) concentrations in the high Arctic during summer are found to weaken the cloud-phase feedback. This allows sunlight to readily melt sea-ice in the summer, which decreases the stability of the lower troposphere, causing a decrease in wintertime cloud fraction over open ocean. Arctic amplification was found to span from ∼1.4 to >2.6, which spans 30% of the spread in AA in the coupled model intercomparison project models, depending on the temperature dependence of immersion freezing. These results suggest that summertime INP concentrations may provide an observational constraint on AA.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here] https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097373
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tan, I., Barahona, D., & Coopman, Q. (2022). Potential Link Between Ice Nucleation and Climate Model Spread in Arctic Amplification. <i>Geophysical Research Letters</i>, 49(4), e2021GL097373.
