@@ -1,7 +1,7 @@
 ---
 title: "Potential Link Between Ice Nucleation and Climate Model Spread in Arctic Amplification"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-01-31-paper-PotentialLink
 excerpt: ''
 date: 2022-01-31
 venue: 'Geophysical Research Letters'
