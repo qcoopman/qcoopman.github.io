@@ -1,7 +1,7 @@
 ---
 title: "Detection of Mixed-Phase Convective Clouds by a Binary Phase Information From the Passive Geostationary Instrument SEVIRI"
 collection: publications
-permalink: /publication/2020-02-09-paper-SpaceBasedAnalysis
+permalink: /publication/2019-04-15-paper-DetectionOf
 excerpt: ''
 date: 2019-04-15
 venue: 'Journal of Geophysical Research: Atmosphere'
