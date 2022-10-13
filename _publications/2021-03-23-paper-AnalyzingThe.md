@@ -1,7 +1,7 @@
 ---
 title: "Analyzing the thermodynamic phase partitioning of mixed phase clouds over the Southern Ocean using passive satellite observations"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-03-23-paper-AnalyzingThe
 excerpt: ''
 date: 2021-03-23
 venue: 'Geophysical Research Letters'
