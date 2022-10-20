@@ -19,7 +19,6 @@ Education
 
 Work experience
 ======
-
 Academic
 ------
 * 2021-now: Postdoctoral researcher
