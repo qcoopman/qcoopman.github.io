@@ -19,6 +19,7 @@ Education
 
 Work experience
 ======
+
 Academic
 ------
 * 2021-now: Postdoctoral researcher
@@ -74,64 +75,57 @@ Teaching
 
 Supervision
 ------
-* 2022: Auber Lamy (B.Sc.)
-  * McGill University
-  * Analysing cloud properties to infer emerging constraints
+* McGill University
+  * Auber Lamy (B.Sc., 2022), Ruijia Yang (M.Sc., 2022-now), Henry Carr (M.Sc., 2021-now)
 
-* 2022-now: Ruijia Yang (M.Sc.)
-  * McGill University
+* Karlsruhe Institute of Technology
+  * Olimpia Bruno (Ph.D., 2017-2021), Barbara Dietel (M.Sc., 2019-2020), Andrin Schmucki (M.Sc. at Swiss Federal Institute of Technology in Zürich, 2019-2020), 
 
-* 2021-now: Henry Carr (M.Sc.)
-  * McGill University
-  * Cloud top thermodynamic phase variations over different regions
-
-* 2019-2020: Barbara Dietel (M.Sc.)
-  * Karlsruhe Institute of Technology
-  * Enhancement of convective cloud property dataset from tracking algorithm with active measurements
-
-* 2017-2021: Olimpia Bruno (Ph.D.)
-  * Karlsruhe Institute of Technology
-  * Space-based analysis of cloud regimes from different dataset with the same instrument
-
-* 2019-2020: Andrin Schmucki (M.Sc.)
-  * Swiss Federal Institute of Technology in Zürich
-  * Observational constraint on the phase of mixed-phase clouds
-
-* 2020: Barbara Dietel (Ph.D.)
-  * Karlsruhe Institute of Technology
-  * Analysis of phase partitioning of middle level clouds by space-based sensors
-
-* 2015: Sam Good (High-School project)
-  * University of Utah
-  * Case studies of long-range biomass-burning pollution on Arctic clouds
+* Universitu of Utah
+  * Sam Good (High-School project)
 
 Award
 ======
-* 2017: Best poster prize from the Aerosols, Cloud, Precipitation and Climate (ACPC) conference
-  * Title: Impact of long-range aerosol transport on phase transitions in arctic clouds
+* 2017: Best poster prize from the Aerosols, Cloud, Precipitation and Climate (ACPC) conference, Impact of long-range aerosol transport on phase transitions in arctic clouds
 
-* 2016: Best oral presentation prize from Journée des doctorants de l'IRePSE (Institut de Recherches Pluridisciplinaires en Sciences de l'Environnement)
-  * Title: Modification des propriétés des nuages en Arctique par les aérosols
+* 2016: Best oral presentation prize from Journée des doctorants de l'IRePSE (Institut de Recherches Pluridisciplinaires en Sciences de l'Environnement), Modification des propriétés des nuages en Arctique par les aérosols
 
-* 2016: Best poster prize from Journée de la Recherche des UFR de physique et Chimie
-  * Title: Effect of long-range aerosol transport on the microphysical properties of low-level Arctic clouds
+* 2016: Best poster prize from Journée de la Recherche des UFR de physique et Chimie, Effect of long-range aerosol transport on the microphysical properties of low-level Arctic clouds
 
-* 2015: Outstanding student paper award at the American Geophysical Union (AGU) Fall meeting
-  * Title: Effect of long-range aerosol transport on the microphysical properties of low-level Arctic clouds
+* 2015: Outstanding student paper award at the American Geophysical Union (AGU) Fall meeting, Effect of long-range aerosol transport on the microphysical properties of low-level Arctic clouds
   
-* 2015: Travel award from the National Academy of Sciences Sackler Colloquia
-  * Title: Improving Our Fundamental Understanding of the Role of Aerosol-Cloud Interactions in the Climate System
+* 2015: Travel award from the National Academy of Sciences Sackler Colloquia, Improving Our Fundamental Understanding of the Role of Aerosol-Cloud Interactions in the Climate System
 
-
-  
-Skills
+Press
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Radio
+------
+* 2018: Notre pollution réduit la durée des nuages de l’Arctique, Ramène ta science for France Bleu Nord (chronicle of a few minutes of scientific information)
+
+* 2018: Think Sustainability (Australian radio show, one hour interview), by Jake Morcom
+
+Newsletter
+------
+* 2020: Cloud life cycles and glaciation observed by satellite, Karlsruhe Institute of Technology, Institute of Meteorology and Climate Research
+
+* 2020: New insights into cloud microphysical processes from combined POLDER-MODIS Level-2 observations "PM-L2", ICARE
+
+* 2018: L’impact de la pollution sur les nuages arctiques, University of Lille
+
+* 2018: Forte sensibilité de la microphysique des nuages à la pollution en Arctique, AERIS
+
+Interview for mainstream press
+------
+* 2018: Arctic clouds are more vulnerable to pollution than once thought, Arctic Today (digital news journal of stories, articles, and community perspectives about the Arctic), by Kelsey Lindsey
+
+* 2018: The Arctic has inversions just like Utah, and they could be making climate change worse, The Salt Lake Tribune (American daily newspaper with a circulation of approximately 85,000 in addition to the online version), by Emma Penrod,
+
+Editor highlight
+------
+* 2018: Air pollution reduces arctic cloud lifetime, study suggests, AGU Press release, by Lauren Lipuma
+
+* 2018: Arctic clouds highly sensitive to air pollution, Earth & Space Science News, by Paul Gabrielsen
+  
 
 Publications
 ======
